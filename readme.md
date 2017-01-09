@@ -1,0 +1,1 @@
+My current React + Webpack boilerplate. Run `node ./server.js` to run the dev server at `localhost:3000` & run `node_modules/.bin/webpack --config webpack.prod.config.js` to generate the html template and 2 javascript bundles for production.
